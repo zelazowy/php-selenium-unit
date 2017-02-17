@@ -19,7 +19,8 @@
     "url": "https://github.com/zelazowy/php-selenium-unit/issues"
   },
   "homepage": "https://github.com/zelazowy/php-selenium-unit#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "phantomjs": "^2.1.7"
   }
 }
