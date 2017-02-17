@@ -1,22 +1,18 @@
-# Aplikacyjne
+# parameters and IDE settings
 /app/config/parameters.yml
 /app/config/parameters_test.yml
 /.idea
 /composer.phar
 
-# Cache
-/app/bootstrap.php.cache
-/app/cache/*
+# Cache & logs
+/var/
 
-# Logi
-/app/logs/*
-
-# Vendory
+# Vendors
 /node_modules/
 /vendor/
 
-# Web symlinki
+# Web symlinks
 /web/bundles/
 
-# Systemowe Mac OS
+# System Mac OS
 .DS_Store
