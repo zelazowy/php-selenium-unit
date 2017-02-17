@@ -1,0 +1,25 @@
+{
+  "name": "php-selenium-unit",
+  "version": "1.0.0",
+  "description": "tmp_symfony ===========",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zelazowy/php-selenium-unit.git"
+  },
+  "author": "Krzysztof Jończyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zelazowy/php-selenium-unit/issues"
+  },
+  "homepage": "https://github.com/zelazowy/php-selenium-unit#readme",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
