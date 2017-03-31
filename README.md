@@ -10,4 +10,5 @@ A Symfony project combining PHPUnit and Selenium, with a little help of phantomj
 
 ## Running tests
 1. start phantomjs server `node_modules/.bin/phantomjs --webdriver=8001`
-2. run tests `vendor/phpunit/phpunit/phpunit tests/Selenium`
+2. if you want to use https use `node_modules/.bin/phantomjs --ignore-ssl-errors=yes`
+3. run tests `vendor/phpunit/phpunit/phpunit tests/Selenium`
